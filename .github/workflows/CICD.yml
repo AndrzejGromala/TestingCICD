@@ -55,4 +55,4 @@ jobs:
       url: 'http://www.myapp.com'
     steps:
       - name: Deploy
-      run: echo The app is live at http://www.myapp.com
+        run: echo The app is live at http://www.myapp.com
